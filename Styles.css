@@ -1,0 +1,51 @@
+body{
+    display: flex;
+}
+.Contenedor{
+    border: 1px solid dodgerblue;
+    margin: 0 auto;
+    width: 60%;
+    background: #fff;
+    padding: 10px;
+}
+.Titulo{
+    text-align: center;
+    background-color: cornflowerblue;
+}
+.Parte_de_arriba{
+    display: flex;
+    background: gray;
+    padding: 10px;
+}
+.Imagen{
+    width: 200px;
+    height: 200px;
+}
+.inline {
+    margin-left: 40px;
+    width: 100%;
+}
+.Subtitulo{
+    border: 1px solid cornflowerblue;
+    color: cornflowerblue;
+}
+
+
+
+/*
+.Imagen {
+    float: left;
+    height: 300px;
+    width: 300px;
+}
+.Parte_de_arriba{
+    background-color:dimgray;
+}
+.Titulo {
+    text-align: center;
+}
+.Mi_informacion{
+    float: right;
+}
+
+*/
